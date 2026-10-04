@@ -242,7 +242,7 @@ my skills, projects and learning journey.
 
 # 🎯 My Goals
 
-<div align="center">
+<div align="starting">
 
 🚀 Build impactful AI projects  
 🧠 Strengthen Machine Learning skills  
