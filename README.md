@@ -1,5 +1,5 @@
 
-<div align="starting">
+<div align="center">
 
 # Hello, I am Sanushia!
 
